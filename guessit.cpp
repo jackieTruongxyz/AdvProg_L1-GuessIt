@@ -97,7 +97,7 @@ char getPlayerOpinion() {
     cin>>isContinued;
     return isContinued;
 }
-
+ 
 
 void playGuessIt() {
     int randomNumber = generateRandomNumber();
